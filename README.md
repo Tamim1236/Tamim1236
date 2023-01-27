@@ -15,7 +15,8 @@
 - 
 
 ---
-<img align="left" alt="Tamim1236's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Tamim1236&show_icons=true&hide_border=true" />
+[![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim1236)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
