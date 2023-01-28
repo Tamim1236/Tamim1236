@@ -1,7 +1,7 @@
 ## Hi there, I'm Tamim - [more about me][website]
 
 ### I'm a third year computer engineering student at the University of Toronto
-- I am looking to learn more about Artifical Intelligence and engineering 
+- I am looking to learn more about Artificial Intelligence and engineering 
 - 2023 Goals: Get better at problem solving, learn more about and implement more in AI, etc.
 - I am currently reading: "Medical imaging deep learning with differential privacy"
 - I am currently listening to: "Off The Wall" - Michael Jackson
