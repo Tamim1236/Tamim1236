@@ -13,8 +13,12 @@
 ### Languages and Tools:
 - Python
 - C++
-- PyTorch
 - C
+- PyTorch
+- Scikit Leanrn
+- JavaScript
+- HTML
+- CSS
 
 ---
 [![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim1236)](https://github.com/anuraghazra/github-readme-stats)
