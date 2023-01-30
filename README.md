@@ -6,7 +6,7 @@
 
 - I am currently building: A more personalized ChatGPT like chatbot
 - I am currently reading: "Medical imaging deep learning with differential privacy"
-- I am currently listening to: "Off The Wall" - Michael Jackson
+- I am currently listening to: "Purple Rain" - Prince
 
 <br />
 
@@ -15,10 +15,11 @@
 - C++
 - C
 - PyTorch
-- Scikit Leanrn
+- Scikit-Learn
 - JavaScript
 - HTML
 - CSS
+- SQL
 
 ---
 [![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim1236)](https://github.com/anuraghazra/github-readme-stats)
