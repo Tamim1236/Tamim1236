@@ -16,10 +16,10 @@
 - C
 - PyTorch
 - Scikit-Learn
+- SQL
 - JavaScript
 - HTML
 - CSS
-- SQL
 
 ---
 [![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim1236)](https://github.com/anuraghazra/github-readme-stats)
