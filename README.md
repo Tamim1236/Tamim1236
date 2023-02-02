@@ -6,7 +6,7 @@
 
 - I am currently building: A more personalized ChatGPT-like chatbot
 - I am currently reading: "Medical imaging deep learning with differential privacy"
-- I am currently listening to: "Purple Rain" - Prince
+- I am currently listening to: "Diamond Life" - Sade
 
 <br />
 
