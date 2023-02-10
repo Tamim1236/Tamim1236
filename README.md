@@ -4,10 +4,10 @@
 - I am looking to learn more about Artificial Intelligence, software deveopment, and engineering 
 - 2023 Goals: Get better at problem solving, learn more about and implement more in AI, etc.
 
+- I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
 - I am currently building: - A more personalized ChatGPT-like chatbot
-                           - A program that uses AI to solve the "Hua Rong Dao" puzzle game
 - I am currently reading: "Medical imaging deep learning with differential privacy"
-- I am currently listening to: "Diamond Life" - Sade
+- I am currently listening to: "Awaken My Love" - Childish Gambino  https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4
 
 <br />
 
