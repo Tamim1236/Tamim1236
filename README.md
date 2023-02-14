@@ -7,7 +7,7 @@
 - I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
 - I am currently building: - A more personalized ChatGPT-like chatbot
 - I am currently reading: "Medical imaging deep learning with differential privacy"
-- I am currently swamped with midterm exams :/
+- I am currently swamped with midterm exams   :/
 - I am currently listening to: "Awaken My Love" - Childish Gambino  https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4
 
 <br />
