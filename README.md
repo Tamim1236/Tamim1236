@@ -6,7 +6,7 @@
 
 - I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
 - I am currently building: - A sudoko solver
-                           - A more personalized ChatGPT-like chatbot
+                           - A more personalized ChatGPT-like chatbot .
 - I am currently reading: "Medical imaging deep learning with differential privacy"
 
 <br />
