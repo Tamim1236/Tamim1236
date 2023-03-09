@@ -6,7 +6,6 @@
 
 - I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
 - I am currently building a Checkers AI program
-- I am currently reading: "Medical imaging deep learning with differential privacy"
 
 <br />
 
