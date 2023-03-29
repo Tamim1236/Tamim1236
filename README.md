@@ -15,8 +15,8 @@
 - C++
 - C
 - PyTorch
-- Scikit-Learn
 - SQL
+- Scikit-Learn
 - JavaScript
 - HTML
 - CSS
