@@ -4,8 +4,7 @@
 - I am looking to learn more about Artificial Intelligence, software deveopment, and engineering 
 - 2023 Goals: Get better at problem solving, learn more about and implement more in AI, etc.
 
-- I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
--                          A hidden Markov model (HMM) for Part-Of-Speech (POS) tagging.
+- I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game, A hidden Markov model (HMM) for Part-Of-Speech (POS) tagging.
 - I am looking for co-op positions and/or internships anytime during May 2023 - August 2024
 
 <br />
