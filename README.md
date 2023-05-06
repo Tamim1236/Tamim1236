@@ -5,7 +5,7 @@
 - 2023 Goals: Get better at problem solving, learn more about and implement more in AI, etc.
 
 - I most recently created: A program that uses AI to solve the "Hua Rong Dao" puzzle game
-- I am currently building a hidden Markov model (HMM) for Part-Of-Speech (POS) tagging.
+-                          A hidden Markov model (HMM) for Part-Of-Speech (POS) tagging.
 - I am looking for co-op positions and/or internships anytime during May 2023 - August 2024
 
 <br />
