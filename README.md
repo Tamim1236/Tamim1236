@@ -17,7 +17,7 @@
 - SQL
 - Scikit-Learn
 - HTML
-- CSS
+- CSS 
 - JavaScript
 
 ---
