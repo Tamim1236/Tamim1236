@@ -12,7 +12,7 @@
 ### Languages and Tools:
 - Python
 - C++
-- C
+- C 
 - PyTorch
 - SQL
 - Scikit-Learn
