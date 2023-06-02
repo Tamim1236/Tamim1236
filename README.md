@@ -16,7 +16,7 @@
 - PyTorch
 - SQL
 - Scikit-Learn
-- HTML  
+- HTML   
 - CSS 
 - JavaScript
 
