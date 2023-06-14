@@ -21,7 +21,6 @@
 - JavaScript 
 
 ---
-[![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim1236)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://wakatime.com/share/@462c5d36-a0f9-4ab0-8750-3eb2c3418696/ce715228-4eca-439b-a7fc-8da3a5af8337.svg" height = "500" width = "500" />
 
