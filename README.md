@@ -10,7 +10,8 @@
 ### Languages and Tools:
 - Python
 - C++
-- C 
+- C
+- Go
 - PyTorch
 - SQL
 - Scikit-Learn 
