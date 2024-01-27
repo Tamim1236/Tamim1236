@@ -4,7 +4,6 @@
 - I am looking to learn more about Artificial Intelligence, software deveopment, and engineering  
 - 2023 Goals: Get better at problem solving, learn more about and implement more in AI, etc.    
 
-  
 <br />
 
 ### Languages and Tools:
