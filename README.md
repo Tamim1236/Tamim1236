@@ -13,6 +13,7 @@
 - Go
 - PyTorch
 - SQL
+- Assembly
 - Scikit-Learn 
 - HTML   
 - CSS 
