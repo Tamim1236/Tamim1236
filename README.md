@@ -21,8 +21,5 @@
 
 ---
 
-<img src="https://wakatime.com/share/@462c5d36-a0f9-4ab0-8750-3eb2c3418696/ce715228-4eca-439b-a7fc-8da3a5af8337.svg" height = "500" width = "500" />
-
-
 
 [website]: https://www.linkedin.com/in/tamim-hasan-4b6432250/
