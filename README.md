@@ -1,7 +1,7 @@
 ## Hi there, I'm Tamim - [more about me][website]
 
 ### I'm a Computer Engineering student at the University of Toronto    
-- I solve solving problems, building, and exploring more in AI, Engineering, and Software.
+- I enjoy solving problems, building, and exploring more in AI, Engineering, and Software.
 - Recently I interned at Jule (https://www.julepower.com) , an Electric Vehicle (EV) Charging Company that builds their own EV chargers and battery systems.
   I worked there as a software engineering intern writing communication protocols in Golang for our chargers to connect to various backend systems.
   I also worked on building an object detection pipeline that allows us to identify make/model of cars that connect to our chargers, using a USB camera installed in our chargers
