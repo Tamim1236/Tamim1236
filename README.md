@@ -7,7 +7,7 @@
   I also worked on building an object detection pipeline that allows us to identify make/model of cars that connect to our chargers, using a USB camera installed in our chargers
   and python code deployed onto Jetson Nanos installed within the inner hardware of a given charger unit.
 - Currently, I am learning more about AI and lower level development and am spending most of my time dabbling with math and C.
-- I also continue to read, watch, and learn more about tech, watching podcasts, and playing with AI tools (here's a site where I post by Midjourney art: https://tamim1236.github.io/Midjourney-Art-Gallery/
+- I also continue to read, watch, and learn more about tech, watching podcasts, and playing with AI tools (here's a site where I post by Midjourney art: https://tamim1236.github.io/Midjourney-Art-Gallery/)
 - Reach out if you'd ever like to chat!
 
 <br />
