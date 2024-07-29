@@ -17,10 +17,12 @@
 - C++ 
 - C
 - Go
+- Java
 - PyTorch
 - SQL
-- Assembly
-- Scikit-Learn 
+- Assembly (ARM and x86)
+- Scikit-Learn
+- OpenCV
 - HTML   
 - CSS 
 - JavaScript 
