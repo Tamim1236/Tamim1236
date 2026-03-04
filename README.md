@@ -3,6 +3,7 @@
 ### I'm a Computer Engineer
 - I enjoy solving problems, building, and exploring more in AI, Engineering, and Software.
 <br />
+
 ### Languages and Tools:
 - Python
 - C++ 
