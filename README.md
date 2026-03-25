@@ -13,7 +13,6 @@
 - PyTorch
 - SQL
 - Assembly (ARM and x86)
-- Scikit-Learn
 - OpenCV
 - HTML   
 - CSS 
